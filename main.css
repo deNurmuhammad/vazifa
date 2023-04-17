@@ -1,0 +1,14 @@
+:root{
+background:slateblue ;
+width: 845px;
+height: 450px;
+display: flex;
+}
+.container{
+    width: var(845px);
+    height: var(450px);
+    display: flex;
+    padding-left: 100px;
+    margin: 100px auto;
+
+}
